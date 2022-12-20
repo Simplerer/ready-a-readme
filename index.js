@@ -3,7 +3,7 @@ const fs = require('fs');
 const prompt = inquirer.createPromptModule();
 
 const populate = (readMe) =>{
-  fs.writeFileSync('SamplerREADME.md', readMe)
+  fs.writeFileSync('SampleREADME.md', readMe)
 }
 
 const makeReadme = (answers) => {

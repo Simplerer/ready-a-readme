@@ -1,6 +1,6 @@
-# yoyoyo
+# opop
 
-  ## [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+  ## [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
   
   ## Table of Contents
   - [Description](#description)
@@ -12,24 +12,24 @@
   - [Questions](#questions)
   
   ## Description
-  yo
+  good
   
   ## Installation
-  oy
+  no
   
   ## Usage
-  oops
+  
 
   ## License
-  This application is covered under the GPLv3 licensing.
+  This application is covered under the BSD3-clause licensing.
   For information on what this license covers please visit this source [Choose a License](https://choosealicense.com/appendix/)
   
   ## Contributing
-  bloa
+  N/A
   
   ## Tests
-  ooob
+  N/A
   
   ## Questions
-  If you need any more information on using this application, my email is yo.
-  My GitHub profile can be located here - >  [oy](https://github.com/oy)  < -
+  If you need any more information on using this application, my email is at@at.
+  My GitHub profile can be located here - >  [tuop](https://github.com/tuop)  < -
