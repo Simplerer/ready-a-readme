@@ -4,7 +4,7 @@ const prompt = inquirer.createPromptModule();
 
   const content = [
     {
-      message: 'What will you be calling this applicaiton?',
+      message: 'What will you be calling this application?',
       name: 'projectname',
     },
     {

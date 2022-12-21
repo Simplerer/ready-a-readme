@@ -15,13 +15,13 @@
   
   ## Image
 
-  ![Stillshot]()
+  ![Stillshot](./Assets/Ready-a-README.jpg)
 
   ## Test Video
 
-  ![In Action]()
+  [In Action](https://app.castify.com/view/e67a602c-9173-41de-a9a9-6dd69fcd400f)
   
   ## Questions
   If you need any more information on using this application, my email is simplererstone@gmail.com.
   My GitHub profile can be located here - >  [Simplerer](https://github.com/Simplerer)  < -
-  The repo can specifically be found here - >  []  < -
+  The repo can specifically be found here - >  [https://github.com/Simplerer/ready-a-readme]  < -
