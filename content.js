@@ -2,7 +2,7 @@ const inquirer = require('inquirer');
 const prompt = inquirer.createPromptModule();
 
 
-  prompt([
+  const content = [
     {
       message: 'What will you be calling this applicaiton?',
       name: 'projectname',
@@ -43,7 +43,7 @@ const prompt = inquirer.createPromptModule();
       name: 'tests',
       default: 'N/A',
     },
-  ])
+  ]
 
   module.exports = {
     content

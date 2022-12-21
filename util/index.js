@@ -1,6 +1,4 @@
-// const inquirer = require('inquirer');
 const fs = require('fs');
-// const prompt = inquirer.createPromptModule();
 
 const populate = (readMe) =>{
     fs.writeFileSync('SamplerREADME.md', readMe)
@@ -21,39 +19,39 @@ const makeReadme = (answers) => {
     
     return `# ${answers.projectname}
   
-    ## ${licenseBadge}
+  ## ${licenseBadge}
     
-    ## Table of Contents
-    - [Description](#description)
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [License](#license)
-    - [Contributing](#contributing)
-    - [Tests](#tests)
-    - [Questions](#questions)
+  ## Table of Contents
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
     
-    ## Description
-    ${answers.description}
+  ## Description
+  ${answers.description}
     
-    ## Installation
-    ${answers.installation}
+  ## Installation
+  ${answers.installation}
     
-    ## Usage
-    ${answers.usage}
+  ## Usage
+  ${answers.usage}
   
-    ## License
-    This application is covered under the ${answers.license} licensing.
-    For information on what this license covers please visit this source [Choose a License](https://choosealicense.com/appendix/)
+  ## License
+  This application is covered under the ${answers.license} licensing.
+  For information on what this license covers please visit this source [Choose a License](https://choosealicense.com/appendix/)
     
-    ## Contributing
-    ${answers.contributing}
+  ## Contributing
+  ${answers.contributing}
     
-    ## Tests
-    ${answers.tests}
+  ## Tests
+  ${answers.tests}
     
-    ## Questions
-    If you need any more information on using this application, my email is ${answers.email}.
-    My GitHub profile can be located here - >  [${answers.github}](https://github.com/${answers.github})  < -`
+  ## Questions
+  If you need any more information on using this application, my email is ${answers.email}.
+  My GitHub profile can be located here - >  [${answers.github}](https://github.com/${answers.github})  < -`
 }
 
 module.exports = {

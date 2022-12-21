@@ -1,32 +1,27 @@
 # Ready-a-README
-
+  
   ## Table of Contents
   - [Description](#description)
-  - [Installation]
-  - [License](#license)
-  - [Contributing](#contributing)
   - [Tests](#tests)
+  - [Image](#image)
+  - [Test Video](#testvideo)
   - [Questions](#questions)
   
   ## Description
-  this project is colorful and full of slide techniques
-  
-  ## Installation
-  wear socks
-  
-  ## Usage
-  at the play lodge
-
-  ## License
-  This application is covered under the GNU GPLv2 licensing.
-  For information on what this license covers please visit this source [Choose a License](https://choosealicense.com/appendix/)
-  
-  ## Contributing
-  bring the fun
+  The Ready-a-README is a handy README builder created to speed your projects completion up. You won't need to refer to any documentaion on markdown, it is built in for you. This is all done within the node.js and can be reused as often as needed.
   
   ## Tests
-  have fun
+  To use and test the capabilities of Ready-a-README, navigate to the containing folder in the terminal and run node index.js. Fill out the necisary information and you are good to go!
+  
+  ## Image
+
+  ![Stillshot]()
+
+  ## Test Video
+
+  ![In Action]()
   
   ## Questions
-  If you need any more information on using this application, my email is slidechamp@here.com.
-  My GitHub profile can be located here - >  [SLIDE](https://github.com/SLIDE)  < -
+  If you need any more information on using this application, my email is simplererstone@gmail.com.
+  My GitHub profile can be located here - >  [Simplerer](https://github.com/Simplerer)  < -
+  The repo can specifically be found here - >  []  < -
